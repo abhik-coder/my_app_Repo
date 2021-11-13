@@ -2,8 +2,11 @@
 #__author__ = "Abhik Padhy"
 #__revision__ = "1.0"
 
+# Importing Tkinter from Tkinter library and creating a handle as tk
 import tkinter as tk
+# From Tkinter Library you will import font. NOTE: Without this line, the code will still work
 from tkinter import font
+#Import Requests (It will install automaticly as part of Python Installation)
 import requests
 
 HEIGHT = 700
