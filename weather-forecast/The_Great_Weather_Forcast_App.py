@@ -1,3 +1,7 @@
+#!/usr/bin/env python3 -tt
+#__author__ = "Abhik Padhy"
+#__revision__ = "1.0"
+
 import tkinter as tk
 from tkinter import font
 import requests
